@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mymobantz/First%20Dev%20Project/_apis/build/status/mymobantz.ContosoAir?branchName=master)](https://dev.azure.com/mymobantz/First%20Dev%20Project/_build/latest?definitionId=2&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
